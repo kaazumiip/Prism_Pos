@@ -1,0 +1,18 @@
+Analyzing pos_scanner...                                        
+
+   info - Parameter 'key' could be a super parameter - lib\main.dart:28:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\screens\scanner_screen.dart:11:9 - use_super_parameters
+  error - There's no constant named 'media' in 'PlayerMode' - lib\screens\scanner_screen.dart:33:43 - undefined_enum_constant
+warning - The value of the field '_lastScannedBarcode' isn't used - lib\screens\scanner_screen.dart:40:11 - unused_field
+   info - Don't invoke 'print' in production code - lib\screens\scanner_screen.dart:115:11 - avoid_print
+   info - Don't invoke 'print' in production code - lib\screens\scanner_screen.dart:122:8 - avoid_print
+   info - Don't invoke 'print' in production code - lib\screens\scanner_screen.dart:159:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\screens\scanner_screen.dart:269:7 - avoid_print
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\scanner_screen.dart:324:34 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\scanner_screen.dart:390:34 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\scanner_screen.dart:399:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\scanner_screen.dart:457:107 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\scanner_screen.dart:462:56 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\scanner_screen.dart:481:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\scanner_screen.dart:504:30 - deprecated_member_use
+

@@ -1,0 +1,15 @@
+Analyzing pos_scanner...                                        
+
+   info - Parameter 'key' could be a super parameter - lib\main.dart:28:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\screens\scanner_screen.dart:12:9 - use_super_parameters
+  error - The named parameter 'defaultToSpeaker' isn't defined - lib\screens\scanner_screen.dart:35:9 - undefined_named_parameter
+  error - The argument type 'List<AVAudioSessionOptions>' can't be assigned to the parameter type 'Set<AVAudioSessionOptions>'.  - lib\screens\scanner_screen.dart:37:18 - argument_type_not_assignable
+   info - Don't invoke 'print' in production code - lib\screens\scanner_screen.dart:58:7 - avoid_print
+warning - The value of the field '_lastScannedBarcode' isn't used - lib\screens\scanner_screen.dart:66:11 - unused_field
+   info - Don't invoke 'print' in production code - lib\screens\scanner_screen.dart:141:11 - avoid_print
+   info - Don't invoke 'print' in production code - lib\screens\scanner_screen.dart:148:8 - avoid_print
+   info - Don't invoke 'print' in production code - lib\screens\scanner_screen.dart:185:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\screens\scanner_screen.dart:286:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\screens\scanner_screen.dart:300:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\screens\scanner_screen.dart:303:7 - avoid_print
+
