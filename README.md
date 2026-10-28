@@ -16,7 +16,7 @@
 
 ## Overview
 
-**Prism Pos system** is a full-stack Point-of-Sale (POS), inventory management, and revenue analytics platform built specifically for retail skincare stores. It combines a responsive web checkout terminal and admin dashboard with a companion **Flutter mobile barcode scanner app** that scans product barcodes via the phone camera and syncs items directly into the active checkout cart in real time.
+**Prism Pos system** is a full-stack Point-of-Sale (POS), inventory management, and revenue analytics platform built specifically for retail skincare stores. It combines a web checkout terminal and admin dashboard with a scanner**Flutter mobile barcode scanner app** that scans product barcodes via the phone camera and syncs items directly into the active checkout cart in real time.
 
 ---
 
