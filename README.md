@@ -43,6 +43,15 @@ Interactive transaction log and best-selling product breakdown filtered by **Tod
 
 ---
 
+### 4. Mobile POS Barcode Scanner App (Flutter)
+Companion mobile camera scanner app with a live viewfinder, one-tap barcode detection, audio/vibration feedback, and instant Wi-Fi synchronization with the web checkout cart.
+
+<div align="center">
+  <img src="./assets/pos-scanner-ui.svg" alt="POS Mobile Barcode Scanner UI" width="340" />
+</div>
+
+---
+
 ## What the Website Does
 
 - **Live Point-of-Sale Checkout (`POSCartUI`):**
@@ -107,3 +116,4 @@ cd pos_scanner
 flutter pub get
 flutter run
 ```
+
