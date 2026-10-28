@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="100%" height="100%">
+  <defs>
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4a148c" />
+      <stop offset="100%" stop-color="#2a0854" />
+    </linearGradient>
+    <filter id="pinkGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#ff007f" flood-opacity="0.45" />
+    </filter>
+  </defs>
+
+  <!-- App Window Background -->
+  <rect width="1200" height="720" rx="10" fill="#050505" stroke="#222222" stroke-width="2" />
+
+  <!-- LEFT SECTION: MAIN POS AREA (780px) -->
+  <rect x="2" y="2" width="778" height="716" rx="8" fill="#090909" />
+
+  <!-- Top Navbar -->
+  <rect x="2" y="2" width="778" height="76" fill="#050505" />
+  <line x1="2" y1="78" x2="780" y2="78" stroke="#222222" stroke-width="1.5" />
+
+  <!-- PRISM Logo Box -->
+  <rect x="32" y="20" width="84" height="38" fill="#ffffff" rx="2" />
+  <text x="74" y="45" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="20" fill="#ff007f" text-anchor="middle" letter-spacing="-0.5">PRISM</text>
+
+  <text x="130" y="37" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="18" fill="#ffffff" letter-spacing="2">PRISM</text>
+  <circle cx="135" cy="52" r="4" fill="#22c55e" />
+  <text x="146" y="56" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="10" fill="#666666" letter-spacing="1.5">ONLINE • STATION A</text>
+
+  <!-- Navbar Buttons -->
+  <rect x="505" y="22" width="110" height="36" rx="18" fill="#050505" stroke="#333333" stroke-width="1.5" />
+  <text x="560" y="44" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="11" fill="#cccccc" text-anchor="middle" letter-spacing="1.5">HISTORY</text>
+
+  <rect x="628" y="22" width="120" height="36" rx="18" fill="#050505" stroke="#ff007f" stroke-width="1.5" filter="url(#pinkGlow)" />
+  <text x="688" y="44" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="11" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">+ ADD ITEM</text>
+
+  <!-- Barcode Scan Bar -->
+  <rect x="32" y="106" width="596" height="54" rx="2" fill="#121212" stroke="#ff007f" stroke-width="1.5" />
+  <text x="54" y="138" font-family="Consolas, monospace" font-weight="700" font-size="15" fill="#ff007f">[||]</text>
+  <text x="96" y="138" font-family="Consolas, monospace" font-size="16" fill="#ffffff" letter-spacing="1.5">8809643051284</text>
+
+  <rect x="642" y="106" width="106" height="54" rx="2" fill="#ff007f" />
+  <text x="695" y="138" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="12" fill="#ffffff" text-anchor="middle" letter-spacing="2">ENTER</text>
+
+  <!-- Cart Items List -->
+  <!-- Item 1 -->
+  <rect x="32" y="184" width="716" height="86" rx="2" fill="#121212" stroke="#ff007f" stroke-width="1.2" />
+  <rect x="48" y="199" width="56" height="56" fill="#050505" stroke="#222222" />
+  <circle cx="76" cy="227" r="16" fill="#ff007f" fill-opacity="0.2" stroke="#ff007f" stroke-width="1.5" />
+  <text x="122" y="222" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="16" fill="#ffffff" letter-spacing="0.8">COSRX ADVANCED SNAIL 96 MUCIN ESSENCE</text>
+  <text x="122" y="244" font-family="Consolas, monospace" font-weight="700" font-size="12" fill="#777777">8809598453214</text>
+  <circle cx="235" cy="240" r="2.5" fill="#333333" />
+  <text x="248" y="244" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="12" fill="#ff007f">$24.00</text>
+
+  <!-- Controls Item 1 -->
+  <rect x="525" y="211" width="32" height="32" fill="#1a1a1a" stroke="#333333" />
+  <text x="541" y="232" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="#cccccc" text-anchor="middle">-</text>
+  <text x="577" y="233" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="#ffffff" text-anchor="middle">2</text>
+  <rect x="597" y="211" width="32" height="32" fill="#1a1a1a" stroke="#333333" />
+  <text x="613" y="232" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="#ff007f" text-anchor="middle">+</text>
+  <text x="724" y="234" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="20" fill="#ffffff" text-anchor="end">$48.00</text>
+
+  <!-- Item 2 -->
+  <rect x="32" y="284" width="716" height="86" rx="2" fill="#121212" stroke="#222222" stroke-width="1.2" />
+  <rect x="48" y="299" width="56" height="56" fill="#050505" stroke="#222222" />
+  <circle cx="76" cy="327" r="16" fill="#a855f7" fill-opacity="0.2" stroke="#a855f7" stroke-width="1.5" />
+  <text x="122" y="322" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="16" fill="#ffffff" letter-spacing="0.8">BEAUTY OF JOSEON RELIEF SUN SPF50+</text>
+  <text x="122" y="344" font-family="Consolas, monospace" font-weight="700" font-size="12" fill="#777777">8809643051284</text>
+  <circle cx="235" cy="340" r="2.5" fill="#333333" />
+  <text x="248" y="344" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="12" fill="#ff007f">$18.00</text>
+
+  <rect x="525" y="311" width="32" height="32" fill="#1a1a1a" stroke="#333333" />
+  <text x="541" y="332" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="#cccccc" text-anchor="middle">-</text>
+  <text x="577" y="333" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="#ffffff" text-anchor="middle">1</text>
+  <rect x="597" y="311" width="32" height="32" fill="#1a1a1a" stroke="#333333" />
+  <text x="613" y="332" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="#ff007f" text-anchor="middle">+</text>
+  <text x="724" y="334" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="20" fill="#ffffff" text-anchor="end">$18.00</text>
+
+  <!-- Item 3 -->
+  <rect x="32" y="384" width="716" height="86" rx="2" fill="#121212" stroke="#222222" stroke-width="1.2" />
+  <rect x="48" y="399" width="56" height="56" fill="#050505" stroke="#222222" />
+  <circle cx="76" cy="427" r="16" fill="#3b82f6" fill-opacity="0.2" stroke="#3b82f6" stroke-width="1.5" />
+  <text x="122" y="422" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="16" fill="#ffffff" letter-spacing="0.8">ANUA HEARTLEAF 77% SOOTHING TONER</text>
+  <text x="122" y="444" font-family="Consolas, monospace" font-weight="700" font-size="12" fill="#777777">8809640731129</text>
+  <circle cx="235" cy="440" r="2.5" fill="#333333" />
+  <text x="248" y="444" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="12" fill="#ff007f">$22.00</text>
+
+  <rect x="525" y="411" width="32" height="32" fill="#1a1a1a" stroke="#333333" />
+  <text x="541" y="432" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="#cccccc" text-anchor="middle">-</text>
+  <text x="577" y="433" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="#ffffff" text-anchor="middle">1</text>
+  <rect x="597" y="411" width="32" height="32" fill="#1a1a1a" stroke="#333333" />
+  <text x="613" y="432" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="#ff007f" text-anchor="middle">+</text>
+  <text x="724" y="434" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="20" fill="#ffffff" text-anchor="end">$22.00</text>
+
+  <!-- Bottom Bar: Quick Actions -->
+  <rect x="32" y="634" width="716" height="54" fill="#121212" stroke="#222222" />
+  <text x="52" y="665" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="11" fill="#555555" letter-spacing="1.5">USER: <tspan fill="#ffffff">ADMINISTRATOR</tspan></text>
+  <text x="724" y="665" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="11" fill="#ff0044" text-anchor="end" letter-spacing="1.5">CLEAR CART</text>
+
+  <!-- RIGHT SECTION: PURPLE PAYMENT PANEL (420px) -->
+  <rect x="780" y="2" width="418" height="716" fill="url(#purpleGrad)" />
+  <line x1="780" y1="98" x2="1198" y2="98" stroke="#ffffff" stroke-opacity="0.1" />
+
+  <!-- Payment Header -->
+  <text x="812" y="54" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="24" fill="#ff007f" letter-spacing="2">SUMMARY</text>
+  <rect x="1104" y="34" width="62" height="26" rx="2" fill="#000000" fill-opacity="0.35" stroke="#ffffff" stroke-opacity="0.2" />
+  <text x="1135" y="51" font-family="Consolas, monospace" font-size="12" fill="#cccccc" text-anchor="middle">#2039</text>
+  <text x="812" y="78" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="11" fill="#ffffff" fill-opacity="0.6" letter-spacing="1.5">ACTIVE CHECKOUT SESSION</text>
+
+  <!-- Totals Section -->
+  <text x="812" y="142" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="13" fill="#ffffff" fill-opacity="0.7" letter-spacing="1.5">SUBTOTAL</text>
+  <text x="1166" y="142" font-family="Consolas, monospace" font-weight="700" font-size="15" fill="#ffffff" text-anchor="end">$88.00</text>
+
+  <text x="812" y="176" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="13" fill="#ffffff" fill-opacity="0.7" letter-spacing="1.5">TAX (8%)</text>
+  <text x="1166" y="176" font-family="Consolas, monospace" font-weight="700" font-size="15" fill="#ffffff" text-anchor="end">$7.04</text>
+
+  <line x1="812" y1="206" x2="1166" y2="206" stroke="#ffffff" stroke-opacity="0.12" />
+
+  <text x="812" y="264" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="18" fill="#ffffff" fill-opacity="0.8" letter-spacing="2">TOTAL</text>
+  <text x="1166" y="272" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="46" fill="#ffffff" text-anchor="end" letter-spacing="-1">$95.04</text>
+
+  <!-- Payment Methods -->
+  <text x="812" y="330" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="11" fill="#ffffff" fill-opacity="0.5" letter-spacing="2.5">PAYMENT METHOD</text>
+
+  <!-- Cash (Selected) -->
+  <rect x="812" y="348" width="110" height="74" rx="2" fill="#ff007f" stroke="#ff007f" stroke-width="2" filter="url(#pinkGlow)" />
+  <text x="867" y="382" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="16" fill="#ffffff" text-anchor="middle">$</text>
+  <text x="867" y="406" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="10" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">CASH</text>
+
+  <!-- Visa -->
+  <rect x="934" y="348" width="110" height="74" rx="2" fill="none" stroke="#ffffff" stroke-opacity="0.25" stroke-width="2" />
+  <text x="989" y="382" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="13" fill="#ffffff" fill-opacity="0.7" text-anchor="middle">CARD</text>
+  <text x="989" y="406" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="10" fill="#ffffff" fill-opacity="0.6" text-anchor="middle" letter-spacing="1.5">VISA</text>
+
+  <!-- ABA -->
+  <rect x="1056" y="348" width="110" height="74" rx="2" fill="none" stroke="#ffffff" stroke-opacity="0.25" stroke-width="2" />
+  <text x="1111" y="382" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="13" fill="#ffffff" fill-opacity="0.7" text-anchor="middle">QR</text>
+  <text x="1111" y="406" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="10" fill="#ffffff" fill-opacity="0.6" text-anchor="middle" letter-spacing="1.5">ABA</text>
+
+  <!-- Dynamic Payment Box -->
+  <rect x="812" y="446" width="354" height="140" rx="2" fill="#000000" fill-opacity="0.35" stroke="#ffffff" stroke-opacity="0.12" />
+  <text x="989" y="502" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="11" fill="#aaaaaa" text-anchor="middle" letter-spacing="2">COLLECT CASH</text>
+  <text x="989" y="542" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="32" fill="#00ff00" text-anchor="middle">$95.04</text>
+
+  <!-- Footer Pay Button -->
+  <line x1="780" y1="612" x2="1198" y2="612" stroke="#ffffff" stroke-opacity="0.1" />
+  <rect x="812" y="632" width="354" height="60" rx="30" fill="#ffffff" />
+  <text x="989" y="669" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="18" fill="#050505" text-anchor="middle" letter-spacing="2">PAY NOW →</text>
+</svg>
