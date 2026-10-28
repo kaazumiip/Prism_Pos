@@ -47,7 +47,7 @@ Interactive transaction log and best-selling product breakdown filtered by **Tod
 Companion mobile camera scanner app with a live viewfinder, one-tap barcode detection, audio/vibration feedback, and instant Wi-Fi synchronization with the web checkout cart.
 
 <div align="center">
-  <img src="./assets/pos-scanner-ui.svg" alt="POS Mobile Barcode Scanner UI" width="340" />
+  <img src="./assets/pos-scanner-ui.png" alt="POS Mobile Barcode Scanner UI" width="340" />
 </div>
 
 ---
